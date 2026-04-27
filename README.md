@@ -51,12 +51,12 @@ arbol-bst-empresa-cpp/
 ![Preorden](capturas/05-Preorden.png)
 ### Postorden
 ![Postorden](capturas/06-Postorden.png)
-
 ### Altura
 ![Altura](capturas/07-Altura.png)
-
 ### Hojas
 ![Hojas](capturas/08-Hojas.png)
+### Estadisticas
+![Estadisticas](capturas/09-Estadisticas.png)
 
 ## Conceptos teoricos (Raiz, nodo interno, hoja, nivel, altura)
 
