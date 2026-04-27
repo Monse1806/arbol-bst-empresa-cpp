@@ -36,6 +36,8 @@ arbol-bst-empresa-cpp/
 - Recorridos inorden, preorden y postorden
 - Calcular altura
 - Mostrar nodos hoja
+- Mostrar estadísticas
+- Vaciar árbol
 ## Capturas
 ### Menu principal
 ![Menu](capturas/01-Menu.png)
